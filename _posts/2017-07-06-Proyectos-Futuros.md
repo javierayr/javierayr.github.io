@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proximos Proyectos"
+title: "Próximos Proyectos"
 date: 2017-07-06
 categories: videos
 ---
@@ -16,4 +16,20 @@ el de una cámara defectuosa y errática, que aparece como el regalo más precia
 que ha dejado la difusa figura paterna.
 
 Actualmente en etapa de producción
+
+---
+
+{% include vimeo.html id=151188215 %}
+
+### Maniquí
+Ficción. Stephanie llegó a Chile sin saber hablar español, en busca de mejores
+condiciones de vida para sus dos hijas que la esperan en Haití. En cartas les
+escribe sus las ansias por volver a verlas mientras pone en el sobre el dinero
+que ha ganado trabajando frente a una vitrina sin moverse, en una concurrida
+tienda de ropa.
+Todo se torna extraño. Agobiada por la soledad y la rutina, Stephanie intenta
+desesperadamente comunicarse, cuando comienza a convertirse en un maniquí
+humano.
+
+Actualmente en etapa de desarrollo de guión para largometraje de ficción.
 
