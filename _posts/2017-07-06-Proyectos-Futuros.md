@@ -1,6 +1,9 @@
--------------------
-Pr�oximos Proyectos
--------------------
+---
+layout: post
+title: "Proximos Proyectos"
+date: 2017-07-06
+categories: videos
+---
 
 {% vimeo 159874282 %}
 
