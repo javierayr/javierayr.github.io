@@ -5,7 +5,7 @@ date: 2017-07-06
 categories: videos
 ---
 
-{% vimeo 159874282 %}
+{% include vimeo.html id=159874282 %}
 
 ### Lentico
 Documental autobiográfico de archivo ajeno, que explora las infancias de otras
