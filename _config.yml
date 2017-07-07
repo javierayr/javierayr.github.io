@@ -25,8 +25,8 @@ url: "https://localhost:4000"
 url: "http://www.javierayr.cl"
 url: "http://javierayr.cl"
 github_username: javierayr
-vimeo_username: javirat
-flickr_username: javirat
+vimeo_username: javierat
+flickr_username: javierat
 
 # Build settings
 markdown: kramdown
