@@ -16,9 +16,16 @@
 title: Javiera Yáñez
 email: javierayr@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  El punto de vista propio es el lugar desde donde todos hablamos. Nuestras
+  vivencias, nuestra memoria, nuestra sensibilidad, incluso nuestro ordinario
+  cotidiano, es lo que nos nutre constantemente. Me parece fundamental
+  evidenciarlo, evidenciar quienes somos los que miramos y los que por ende,
+  comunicamos.
+
+
+  He enfocado mis proyectos y mi trabajo siempre desde dicha subjetividad, las
+  historias ya están contadas pero la historia propia se escribe de forma
+  constante.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://javierayr.github.io"
 url: "https://localhost:4000"
