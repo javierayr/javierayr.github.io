@@ -16,16 +16,11 @@
 title: Javiera Yáñez
 email: javierayr@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  El punto de vista propio es el lugar desde donde todos hablamos. Nuestras
-  vivencias, nuestra memoria, nuestra sensibilidad, incluso nuestro ordinario
-  cotidiano, es lo que nos nutre constantemente. Me parece fundamental
-  evidenciarlo, evidenciar quienes somos los que miramos y los que por ende,
-  comunicamos.
-
-
-  He enfocado mis proyectos y mi trabajo siempre desde dicha subjetividad, las
-  historias ya están contadas pero la historia propia se escribe de forma
-  constante.
+  Licenciada en Comunicación Audiovisual en la Universidad de Chile.
+  Intereses en el área de dirección, guión, montaje, y fotografía, tanto en
+  contenido web como obras de ficción y no-ficción ( y la difusa línea que las
+  divide). Me interesa jugar con los formatos para poder generar contenido
+  atractivo, de calidad, con valor cultural y de autor.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://javierayr.github.io"
 url: "https://localhost:4000"
